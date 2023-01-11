@@ -52,9 +52,9 @@ def makeScale(whichOctave, whichKey, whichScale):
     #Choose scale
     if whichScale == 'Алмаз':
         scale = [0, 2, 3, 5, 7, 8, 10]
-    elif whichScale == 'BLUES':
+    elif whichScale == 'fdfdfdf':
         scale = [0, 2, 3, 4, 5, 7, 9, 10, 11]
-    elif whichScale == 'PHYRIGIAN':
+    elif whichScale == 'hghfhgfhgN':
         scale = [0, 1, 3, 5, 7, 8, 10]
     elif whichScale == 'CHROMATIC':
         scale = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
